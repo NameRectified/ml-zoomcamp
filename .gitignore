@@ -1,1 +1,4 @@
-/practice
+/practice/
+.venv/
+module-8/data/
+module-8/data.zip
